@@ -29,7 +29,7 @@ Contributions are welcome! If you have any suggestions for improving the analysi
 **Acknowledgments**:
 
 - Inspiration: This analysis was inspired by the need for better understanding coffee shop sales trends and performance.
-- Data Source: Sample sales data used in this analysis is fictional and for demonstration purposes only.
+- Data Source: https://mavenanalytics.io/data-playground?search=coffee 
 
 **Feedback**:
 
