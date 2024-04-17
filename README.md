@@ -20,17 +20,21 @@ This repository contains an Excel file for analyzing sales data of a coffee shop
 **Requirements** 
 Microsoft Excel 
 
-**Contributing**
+**Contributing**:
+
 Contributions are welcome! If you have any suggestions for improving the analysis or adding new features, feel free to fork this repository, make your changes, and submit a pull request.
 
-**License**
+**License**: 
+
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-**Acknowledgments**
+**Acknowledgments**:
+
 > Inspiration: This analysis was inspired by the need for better understanding coffee shop sales trends and performance.
 > Data Source: Sample sales data used in this analysis is fictional and for demonstration purposes only.
 
-**Feedback**
+**Feedback**:
+
 If you have any feedback, questions, or concerns, please feel free to open an issue in this repository or contact ME at idrees.patvekar15@gmail.com.
 
 Thank you for using Coffee Shop Sales Analysis Excel! Enjoy analyzing your sales data and discovering insights to improve your business.
